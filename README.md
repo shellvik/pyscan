@@ -1,12 +1,5 @@
 <h4 align="center"> Basic port scanner built in Python for fun.</h4>
-
-<p align="center">
-  <a href="https://github.com/shellvik/pyscan">
-    <img src="https://github.com/shellvik/pyscan/src/pyscan.png">
-  </a>
-</p>
-
-<p align="center"><img src="/src/pyscan.png" alt="Pyscan Demo"></p>
+<p align="center"><img src="/src/pyscan-demo.png" alt="Pyscan Demo"></p>
 
 ## Usage:
 Pyscan takes one argument - IP or hostname:
